@@ -15,7 +15,7 @@ var drawShape = function(shape) {
     }
 };
 
-//drawSquare();
-//drawCircle();
+drawSquare();
+drawCircle();
 //drawShape('square');
 //drawShape('circle');
